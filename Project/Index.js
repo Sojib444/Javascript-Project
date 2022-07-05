@@ -1,8 +1,5 @@
 
-"use strict";
- const sum= (a,b)=>
-{
-    console.log(this)
-    return a+b;
-}
-console.log(sum(10,20));
+
+"use-strict";
+
+document.querySelector(".hi").style.background="#937DC2";
